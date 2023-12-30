@@ -1,0 +1,57 @@
+#+TITLE: CV
+#+AUTHOR: Ronak Cuthill
+#+OPTIONS: toc:nil num:nil
+
+* Objective Statement
+Growth-oriented new graduate with a bachelors degree in math seeking to leverage strong analytical skills for formal verification of pre-silicon accelerator designs.
+
+Interested in furthering my education in professional and academic settings to persue a career in systems design of asymmetric multicore architectures in order to compensate for the problems that cannot be addressed through transistor miniaturization.
+
+* Coursework
+- Understanding of data structures and algorithms, from linked lists to graphs to hash tries.
+- Understanding of computer architecture, interrupts, and embedded peripherals.
+- Design of digital circuits from a logic to RTL level, with limited HDL experience.
+- Experience in linear algebra, combinatorics, and graph theory
+- Can condifedntly analyze data using statistical methods.
+
+* Projects/Self-study
+- Wrote an general purpose buddy block memory allocator and mark and sweep garbage collector in C.
+- Created a compiler with a bytecode backend to a self-created virtual machine.
+- Programmed an STM32 on bare metal to blink a light and accept input.
+- Studied formal verification in Verilog.
+- Implemented a B-tree based in-memory database supporting insertion and selection.
+
+* Professional/Personal Experience
+- Took initiative in my education during childhood to persure university courses in mathematics before high-school.
+- Led my high-school shotput team to a higher level of competition - increased team size to a dozen indiciduals and brought five of them to compete on the state level.
+- Started a landscaping and hauling business.
+- Led efforts to create online study groups during the pandemic to support the education of my peers.
+- Rapidly asccended the responsibility ladder at You Move Me Victoria from a labourer to team leader position in under two months by leading my teams to reduce packing time on the job.
+
+* Skills
+#+BEGIN_columns
+
+#+ATTR_HTML: :width 50%
+#+BEGIN_column
+- Problem-solving
+- Leadership
+- Teamwork
+- Curiosity
+#+END_column
+
+#+ATTR_HTML: :width 50%
+#+BEGIN_column
+- C/Assembler
+- Verilog
+- Python
+- Forth
+- Haskell
+- Git
+- Emacs
+- Linux
+- Nix
+- Autotools
+#+END_column
+  
+#+END_columns
+  
