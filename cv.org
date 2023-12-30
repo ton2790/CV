@@ -29,18 +29,10 @@ Interested in furthering my education in professional and academic settings to p
 - Rapidly asccended the responsibility ladder at You Move Me Victoria from a labourer to team leader position in under two months by leading my teams to reduce packing time on the job.
 
 * Skills
-#+BEGIN_columns
-
-#+ATTR_HTML: :width 50%
-#+BEGIN_column
 - Problem-solving
 - Leadership
 - Teamwork
 - Curiosity
-#+END_column
-
-#+ATTR_HTML: :width 50%
-#+BEGIN_column
 - C/Assembler
 - Verilog
 - Python
@@ -51,7 +43,3 @@ Interested in furthering my education in professional and academic settings to p
 - Linux
 - Nix
 - Autotools
-#+END_column
-  
-#+END_columns
-  
