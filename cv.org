@@ -1,23 +1,26 @@
 #+TITLE: CV
 #+AUTHOR: Ronak Cuthill
-#+OPTIONS: toc:nil num:nil
+#+OPTIONS: toc:nil num:nil html-postamble:nil
 
 * Objective Statement
-Growth-oriented new graduate with a bachelors degree in math seeking to leverage strong analytical skills for formal verification of pre-silicon accelerator designs.
+Growth-oriented new graduate with a bachelor's degree in math seeking
+to leverage strong analytical skills for formal verification of ASIC/FPGA
+designs.
 
-Interested in furthering my education in professional and academic settings to pursue a career in systems design of asymmetric multicore architectures in order to compensate for the problems that cannot be addressed through transistor miniaturization.
+Interested in furthering my education in professional and academic
+settings to pursue a career in digital systems design.
 
 * Education
 ** B.Sc in Mathematics with Computer Science Minor at the University of Victoria - 2019 to 2023
 - Understanding of data structures and algorithms, from linked lists to graphs to hash tries.
+- Studied systems analysis and software development methods.
 - Understanding of computer architecture, interrupts, and embedded peripherals.
-- Design of digital circuits from a logic to RTL level, with limited HDL experience.
-- Experience in linear algebra, combinatorics, and graph theory
+- Design of digital circuits from logic to RTL level, with limited HDL experience.
+- Broad understanding of mathematics - 22 courses including including calculus, analysis, algebraic topology, and combinatorics.
 - Led efforts to create online study groups during the pandemic to support the education of my peers.
-- Can confidently analyze data using statistical methods.
 
 * Projects
-- Wrote a general purpose buddy block memory allocator and mark and sweep garbage collector in C.
+- Wrote a general-purpose buddy block memory allocator and mark and sweep garbage collector in C.
 - Created a compiler with a bytecode backend to a self-created virtual machine.
 - Programmed an STM32 on bare metal to blink a light and accept input.
 - Studied formal verification in Verilog.
@@ -28,7 +31,11 @@ Interested in furthering my education in professional and academic settings to p
 - Rapidly ascended the responsibility ladder at You Move Me Victoria from a laborer to team leader position in under two months by leading my teams to reduce packing time on the job.
 
 ** Scholar Athlete, and Entrepreneur at South Lakes High School - 2015 to 2018
-- Took initiative in my education during childhood to pursure university courses in mathematics before high-school.
+- Took initiative in my education during childhood to take university
+  courses in mathematics before high school hrough the John;s Hopkins
+  CTY program and George Mason University.  Started learning calculus
+  at 7 years of age and completed all math courses available in secondary education
+  by 15.
 - Led my high-school shotput team to a higher level of competition - increased team size to a dozen individuals and brought five of them to compete on the state level.
 - Started a landscaping and hauling business with temporary employees to address the needs of my local community.
 
